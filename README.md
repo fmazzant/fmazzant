@@ -1,5 +1,10 @@
 ### Hi there, I'm Federico 👋
 
+## I'm Senior Software Developer and Project Manager
+
+
+
+
 <!--
 **fmazzant/fmazzant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
