@@ -1,7 +1,7 @@
 ### Hi there, I'm Federico 👋
 
 ## I'm a Senior Software Developer and a Project Manager
-My main activities and responsabilities are:
+My main activities and responsibilities are and have been:
 
 - Development an App mobile for Sport Bettings. The App is considered a critical app and a high level of performance and stability is required.
 
