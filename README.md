@@ -4,8 +4,10 @@
 My main activities and responsabilities are:
 
 - (change) Analysis, development and project management for iOS, UWP and Android Application with native language and Xamarin framework.
-- (change) Analysis, development and project management for Web Application and Desktop Application with Microsoft technology and open source technology.
-- (change) Analysis, development and project management for DNN custom modules.
+
+- Analysis, development and project management an Xamarin App for Android for the for the management of waste collection.
+
+- Analysis, development and project management an Xamarin App for Android for the management of inspections for the loading and unloading of semi-trailers on vessel.
 
 - Analysis, development, project management and team leader to develop a collection of DDN custom module to manage and view the content for a pharmaceutical company based in Berlin website. The project was enclued the integration with other system.
 
