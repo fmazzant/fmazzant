@@ -6,7 +6,6 @@ Today my main activities and responsabilities are:
 - Analysis, development and project management for Web Application and Desktop Application with Microsoft technology and open source technology.
 - Analysis, development and project management for DNN custom modules.
 
-
 - Analysis and development an App for iPad for the voting of probibirs. The software made it possible to speed up the voting and speed up the ballot.
 
 - Analysis and development a Pdf reader and a epub reader to Apple devices.
@@ -14,7 +13,9 @@ Today my main activities and responsabilities are:
 - Analysis and development an App for iPad that allows you to quickly and easily organize and manage all of your books, magazines, newspapers, brochures and documents in pdf and ebook in format epub3 (and ebook - epub3 format).
 The App it has been declared one of best Italian APP 2013 from the Digitalic head, (Declared one of the best italian APP 2013).
 
+- Analysis and development of a tool for managing the mission in the Torque video games engine
 
+- MeshLab, an open-source project for the treatment of unstructured 3D meshes. The project is mostly based on the VCG library, developed at ISI-CNR
 
 
 <!--
