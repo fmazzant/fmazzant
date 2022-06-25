@@ -1,7 +1,7 @@
 ### Hi there, I'm Federico 👋
 
 ## I'm a Senior Software Developer and a Project Manager
-Today my main activities and responsabilities are:
+My main activities and responsabilities are:
 
 - (change) Analysis, development and project management for iOS, UWP and Android Application with native language and Xamarin framework.
 - (change) Analysis, development and project management for Web Application and Desktop Application with Microsoft technology and open source technology.
