@@ -17,6 +17,7 @@ The App it has been declared one of best Italian APP 2013 from the Digitalic hea
 
 - MeshLab, an open-source project for the treatment of unstructured 3D meshes. The project is mostly based on the VCG library, developed at ISI-CNR
 
+- Analysis and development of a framework for defining web components (described in XML-based language)
 
 <!--
 **fmazzant/fmazzant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
