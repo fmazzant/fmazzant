@@ -2,9 +2,10 @@
 
 ## I'm a Senior Software Developer and a Project Manager
 Today my main activities and responsabilities are:
-- Analysis, development and project management for iOS, UWP and Android Application with native language and Xamarin framework.
-- Analysis, development and project management for Web Application and Desktop Application with Microsoft technology and open source technology.
-- Analysis, development and project management for DNN custom modules.
+
+- (change) Analysis, development and project management for iOS, UWP and Android Application with native language and Xamarin framework.
+- (change) Analysis, development and project management for Web Application and Desktop Application with Microsoft technology and open source technology.
+- (change) Analysis, development and project management for DNN custom modules.
 
 - Analysis and development an App for iPad for the voting of probibirs. The software made it possible to speed up the voting and speed up the ballot.
 
