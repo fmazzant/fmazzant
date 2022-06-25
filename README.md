@@ -7,7 +7,7 @@ Today my main activities and responsabilities are:
 - Analysis, development and project management for DNN custom modules.
 
 
-
+- Analysis and development an App for iPad for the voting of probibirs. The software made it possible to speed up the voting and speed up the ballot.
 
 - Analysis and development a Pdf reader and a epub reader to Apple devices.
 
