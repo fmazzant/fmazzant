@@ -7,7 +7,7 @@ Today my main activities and responsabilities are:
 - (change) Analysis, development and project management for Web Application and Desktop Application with Microsoft technology and open source technology.
 - (change) Analysis, development and project management for DNN custom modules.
 
-- Analysis, development, project management and team leader to develop a collection of DDN customer module to manage and view for a pharmaceutical company based in Berlin website.
+- Analysis, development, project management and team leader to develop a collection of DDN custom module to manage and view the content for a pharmaceutical company based in Berlin website. The project was enclued the integration with other system.
 
 - Analysis and development an App for iPad for the voting of probibirs. The software made it possible to speed up the voting and speed up the ballot.
 
