@@ -13,7 +13,7 @@ My main activities and responsibilities are and have been:
 
 - Analysis and development an App for iPad for the voting of probibirs. The software made it possible to speed up the voting and speed up the ballot.
 
-- Analysis and development a Pdf reader and a epub reader to Apple devices.
+- Analysis and development a Pdf reader and a epub reader for Apple devices.
 
 - Analysis and development an App for iPad that allows you to quickly and easily organize and manage all of your books, magazines, newspapers, brochures and documents in pdf and ebook in format epub3 (and ebook - epub3 format).
 The App it has been declared one of best Italian APP 2013 from the Digitalic head, (Declared one of the best italian APP 2013).
