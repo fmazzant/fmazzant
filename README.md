@@ -6,6 +6,9 @@ Today my main activities and responsabilities are:
 - Analysis, development and project management for Web Application and Desktop Application with Microsoft technology and open source technology.
 - Analysis, development and project management for DNN custom modules.
 
+- Analyzed and developed an App for iPad that allows you to quickly and easily organize and manage all of your books, magazines, newspapers, brochures and documents in pdf and ebook in format epub3 (and ebook - epub3 format).
+The App it has been declared one of best Italian APP 2013 from the Digitalic head, (Declared one of the best italian APP 2013).
+
 
 
 
