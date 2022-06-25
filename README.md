@@ -3,7 +3,7 @@
 ## I'm a Senior Software Developer and a Project Manager
 My main activities and responsabilities are:
 
-- (change) Analysis, development and project management for iOS, UWP and Android Application with native language and Xamarin framework.
+- Development an App mobile for Sport Bettings. The App is considered a critical app and a high level of performance and stability is required.
 
 - Analysis, development and project management an Xamarin App for Android for the for the management of waste collection.
 
