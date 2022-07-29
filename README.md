@@ -14,6 +14,8 @@ In May 2021 a new version for German and Austrian markets was released.
 
 - Analysis, development and project management of a mobile app both on android and iOS platforms. The app context is about energy and gas management. It deals with self-reading, bills viewer, recharge TLC and news functionality
 
+- Analysis, development, and project management of a Xamarin App for Android for the management of inspections for the boarding and landing of semi-trailers from/to vessel. The App manages multi gate inspections, and multi stock terminal. The system manages about 1500 inspections per day and it is integrated with two other systems.
+
 - Analysis and development an App for iPad that allows you to quickly and easily organize and manage all of your books, magazines, newspapers, brochures and documents in pdf and ebook in format epub3.
 The App it has been declared one of best Italian APP 2013 from the Digitalic head.
 
