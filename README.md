@@ -6,9 +6,9 @@ My main activities and responsibilities are and have been:
 - Analysis and development of a mobile app for Italian sport bettings. High level of performance and stability are required due to its criticity. It is available for iOS and android platforms. The app has been developed with Xamarin and angular.
 In May 2021 a new version for German and Austrian markets was released.
 
-- Analysis, development, and project management an Xamarin App for Android for the waste management.
+- Analysis, development, and project management a Xamarin App for Android for the waste management.
 
-- Analysis, development and project management an Xamarin App for Android for the management of inspections for the loading and unloading of semi-trailers on vessel.
+- Analysis, development and project management a Xamarin App for Android for the management of inspections for the loading and unloading of semi-trailers on vessel.
 
 - Team leadership with duties of analysis, development and project management too in a pharmaceutical company's website customization. Multiple DDN modules have been developed and an integration with an external system has been realized
 
