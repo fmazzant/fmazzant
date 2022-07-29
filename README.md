@@ -6,7 +6,6 @@ My main activities and responsibilities are and have been:
 - Analysis and development of a mobile app for Italian sport bettings. High level of performance and stability are required due to its criticity. It is available for iOS and android platforms. The app has been developed with Xamarin and angular.
 In May 2021 a new version for German and Austrian markets was released. 
 High level of efficiency is required during the peaks of the game: app is able to manage up to 3000 requests per second
-![image](https://user-images.githubusercontent.com/46487952/181735490-cfbf593b-9cdf-409a-a865-ce2cf2fa7d36.png)
 
 - Analysis, development, and project management an Xamarin App for Android for the waste management.
 
