@@ -8,8 +8,6 @@ In May 2021 a new version for German and Austrian markets was released.
 
 - Analysis, development, and project management a Xamarin App for Android for the waste management.
 
-- Analysis, development and project management a Xamarin App for Android for the management of inspections for the loading and unloading of semi-trailers on vessel.
-
 - Team leadership with duties of analysis, development and project management too in a pharmaceutical company's website customization. Multiple DDN modules have been developed and an integration with an external system has been realized
 
 - Analysis, development and project management of a mobile app both on android and iOS platforms. The app context is about energy and gas management. It deals with self-reading, bills viewer, recharge TLC and news functionality
