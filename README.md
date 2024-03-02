@@ -3,7 +3,7 @@
 ## I'm a Senior Software Developer and a Project Manager
 My main activities and responsibilities are and have been:
 
-- Analysis and development of a mobile app for Wine Company Agent. It is available for iOS and Android. The app has been developed with MAUI.
+- Analysis and development of a mobile app for Wine Company Agent. It is available for iOS and Android. The app has been developed with .NET MAUI.
 
 - Analysis and development of a mobile app for Italian sport bettings. High levels of performance and stability are required due to its criticity. It is available for iOS, Android platforms and HTML5. The app has been developed with Xamarin and angular.
 In May 2021 a new version for German and Austrian markets was released.
