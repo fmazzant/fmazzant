@@ -3,6 +3,8 @@
 ## I'm a Senior Software Developer and a Project Manager
 My main activities and responsibilities are and have been:
 
+- In the last period I'm Fluttering....
+
 - Analysis and development of a mobile app for Wine Company Agent. It is available for iOS and Android. The app has been developed with .NET MAUI.
 
 - Analysis and development of a mobile app for Italian sport bettings. High levels of performance and stability are required due to its criticity. It is available for iOS, Android platforms and HTML5. The app has been developed with Xamarin and angular.
