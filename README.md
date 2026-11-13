@@ -13,16 +13,14 @@ Currently exploring **Flutter**.
 
 ## 🔧 Open source
 
-.NET libraries published on NuGet as `Mafesoft.*` (`Mafe.*` up to the previous major versions).
+.NET libraries on NuGet ([Mafesoft.*](https://www.nuget.org/profiles/fmazzant)):
 
-| Project | What it is | NuGet | Downloads |
-|---|---|---|---|
-| [**RestClient**](https://github.com/fmazzant/RestClient) | Fluent, immutable REST client for .NET: retry, refresh token, OpenTelemetry tracing and metrics, streaming of JSON arrays and Server-Sent Events | [![NuGet](https://img.shields.io/nuget/v/Mafesoft.RestClient?style=flat-square&label=nuget)](https://www.nuget.org/packages/Mafesoft.RestClient) | [![Downloads](https://img.shields.io/nuget/dt/Mafe.RestClient?style=flat-square&label=downloads)](https://www.nuget.org/packages/Mafe.RestClient) |
-| [**TinyCsv**](https://github.com/fmazzant/TinyCsv) | Read and write CSV data in an easy way, with an ASP.NET Core extension | [![NuGet](https://img.shields.io/nuget/v/Mafesoft.TinyCsv?style=flat-square&label=nuget)](https://www.nuget.org/packages/Mafesoft.TinyCsv) | [![Downloads](https://img.shields.io/nuget/dt/Mafe.TinyCsv?style=flat-square&label=downloads)](https://www.nuget.org/packages/Mafe.TinyCsv) |
-| [**Localization**](https://github.com/fmazzant/Localization) | Localization for .NET applications, with WPF, Xamarin, .NET MAUI, Blazor and MVC extensions | [![NuGet](https://img.shields.io/nuget/v/Mafesoft.Localization?style=flat-square&label=nuget)](https://www.nuget.org/packages/Mafesoft.Localization) | [![Downloads](https://img.shields.io/nuget/dt/Mafe.Localization?style=flat-square&label=downloads)](https://www.nuget.org/packages/Mafe.Localization) |
-| [**AdvancedWebView**](https://github.com/fmazzant/AdvancedWebView) | Lightweight web view for .NET MAUI: loads web content, navigation events and error handling | [![NuGet](https://img.shields.io/nuget/v/Mafesoft.Maui.AdvancedWebView?style=flat-square&label=nuget)](https://www.nuget.org/packages/Mafesoft.Maui.AdvancedWebView) | [![Downloads](https://img.shields.io/nuget/dt/Mafesoft.Maui.AdvancedWebView?style=flat-square&label=downloads)](https://www.nuget.org/packages/Mafesoft.Maui.AdvancedWebView) |
-| [**PlainTextReport**](https://github.com/fmazzant/PlainTextReport) | Generates a plain text report from a collection of objects | [![NuGet](https://img.shields.io/nuget/v/Mafesoft.PlainTextReport?style=flat-square&label=nuget)](https://www.nuget.org/packages/Mafesoft.PlainTextReport) | [![Downloads](https://img.shields.io/nuget/dt/Mafesoft.PlainTextReport?style=flat-square&label=downloads)](https://www.nuget.org/packages/Mafesoft.PlainTextReport) |
-| [**VimeoClient**](https://github.com/fmazzant/VimeoClient) | Simple connector to the Vimeo REST services | [![NuGet](https://img.shields.io/nuget/v/Mafesoft.VimeoClient?style=flat-square&label=nuget)](https://www.nuget.org/packages/Mafesoft.VimeoClient) | [![Downloads](https://img.shields.io/nuget/dt/Mafesoft.VimeoClient?style=flat-square&label=downloads)](https://www.nuget.org/packages/Mafesoft.VimeoClient) |
+- [**RestClient**](https://github.com/fmazzant/RestClient) — fluent REST client with retry, refresh token and OpenTelemetry
+- [**TinyCsv**](https://github.com/fmazzant/TinyCsv) — fast CSV reading and writing, with ASP.NET Core support
+- [**Localization**](https://github.com/fmazzant/Localization) — localization for WPF, .NET MAUI, Blazor and MVC
+- [**AdvancedWebView**](https://github.com/fmazzant/AdvancedWebView) — .NET MAUI web view with a JavaScript bridge
+- [**PlainTextReport**](https://github.com/fmazzant/PlainTextReport) — plain text reports from a collection of objects
+- [**VimeoClient**](https://github.com/fmazzant/VimeoClient) — client for the Vimeo API
 
 ## 💼 Selected work
 
