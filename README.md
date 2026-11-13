@@ -30,11 +30,11 @@ Currently exploring **Flutter**.
 |---|---|---|
 | Sales app for a wine company's agents | iOS, Android | .NET MAUI |
 | Sports betting app — high performance and stability, German and Austrian release in May 2021 | iOS, Android, HTML5 | Xamarin, Angular |
-| Waste management app | Android | Xamarin |
+| Waste management app | Android | .NET MAUI |
 | Pharmaceutical company website — team lead, custom DNN modules, integration with an external system | Web | DNN |
-| Energy & gas customer app — meter self-reading, bills, top-ups, news | iOS, Android | – |
-| Naval sector inspections — boarding/landing of semi-trailers, multi-gate (1,500 inspections/day), multi-terminal | Android | – |
-| PDF & EPUB3 library for iPad — named one of the best Italian apps of 2013 by Digitalic | iPad | – |
+| Energy & gas customer app — meter self-reading, bills, top-ups, news | iOS, Android | Objective-C/Swift/Java |
+| Naval sector inspections — boarding/landing of semi-trailers, multi-gate (1,500 inspections/day), multi-terminal | Android | Xamarin |
+| PDF & EPUB3 library for iPad — named one of the best Italian apps of 2013 by Digitalic | iPad | Objective-C |
 
 On most of these I covered analysis, development and project management.
 
