@@ -1,42 +1,45 @@
 ### Hi there, I'm Federico 👋
 
-## I'm a Senior Software Developer and a Project Manager
-My main activities and responsibilities are and have been:
+**Senior Software Developer & Project Manager** — mobile apps and .NET libraries, from analysis to delivery.
+Currently exploring **Flutter**.
 
-- In the last period I'm Fluttering....
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat-square&logo=xamarin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-- Analysis and development of a mobile app for Wine Company Agent. It is available for iOS and Android. The app has been developed with .NET MAUI.
+---
 
-- Analysis and development of a mobile app for Italian sport bettings. High levels of performance and stability are required due to its criticity. It is available for iOS, Android platforms and HTML5. The app has been developed with Xamarin and angular.
-In May 2021 a new version for German and Austrian markets was released.
+## 🔧 Open source
 
-- Analysis, development, and project management a Xamarin App for Android for the waste management.
+.NET libraries published on NuGet as `Mafesoft.*` (`Mafe.*` up to the previous major versions).
 
-- Team leadership with duties of analysis, development and project management too in a pharmaceutical company's website customization. Multiple DDN modules have been developed and an integration with an external system has been realized
+| Project | What it is | NuGet | Downloads |
+|---|---|---|---|
+| [**RestClient**](https://github.com/fmazzant/RestClient) | Fluent, immutable REST client for .NET: retry, refresh token, OpenTelemetry tracing and metrics, streaming of JSON arrays and Server-Sent Events | [![NuGet](https://img.shields.io/nuget/v/Mafesoft.RestClient?style=flat-square&label=nuget)](https://www.nuget.org/packages/Mafesoft.RestClient) | [![Downloads](https://img.shields.io/nuget/dt/Mafe.RestClient?style=flat-square&label=downloads)](https://www.nuget.org/packages/Mafe.RestClient) |
+| [**TinyCsv**](https://github.com/fmazzant/TinyCsv) | Read and write CSV data in an easy way, with an ASP.NET Core extension | [![NuGet](https://img.shields.io/nuget/v/Mafesoft.TinyCsv?style=flat-square&label=nuget)](https://www.nuget.org/packages/Mafesoft.TinyCsv) | [![Downloads](https://img.shields.io/nuget/dt/Mafe.TinyCsv?style=flat-square&label=downloads)](https://www.nuget.org/packages/Mafe.TinyCsv) |
+| [**Localization**](https://github.com/fmazzant/Localization) | Localization for .NET applications, with WPF, Xamarin, .NET MAUI, Blazor and MVC extensions | [![NuGet](https://img.shields.io/nuget/v/Mafesoft.Localization?style=flat-square&label=nuget)](https://www.nuget.org/packages/Mafesoft.Localization) | [![Downloads](https://img.shields.io/nuget/dt/Mafe.Localization?style=flat-square&label=downloads)](https://www.nuget.org/packages/Mafe.Localization) |
+| [**AdvancedWebView**](https://github.com/fmazzant/AdvancedWebView) | Lightweight web view for .NET MAUI: loads web content, navigation events and error handling | [![NuGet](https://img.shields.io/nuget/v/Mafesoft.Maui.AdvancedWebView?style=flat-square&label=nuget)](https://www.nuget.org/packages/Mafesoft.Maui.AdvancedWebView) | [![Downloads](https://img.shields.io/nuget/dt/Mafesoft.Maui.AdvancedWebView?style=flat-square&label=downloads)](https://www.nuget.org/packages/Mafesoft.Maui.AdvancedWebView) |
+| [**PlainTextReport**](https://github.com/fmazzant/PlainTextReport) | Generates a plain text report from a collection of objects | [![NuGet](https://img.shields.io/nuget/v/Mafesoft.PlainTextReport?style=flat-square&label=nuget)](https://www.nuget.org/packages/Mafesoft.PlainTextReport) | [![Downloads](https://img.shields.io/nuget/dt/Mafesoft.PlainTextReport?style=flat-square&label=downloads)](https://www.nuget.org/packages/Mafesoft.PlainTextReport) |
+| [**VimeoClient**](https://github.com/fmazzant/VimeoClient) | Simple connector to the Vimeo REST services | [![NuGet](https://img.shields.io/nuget/v/Mafesoft.VimeoClient?style=flat-square&label=nuget)](https://www.nuget.org/packages/Mafesoft.VimeoClient) | [![Downloads](https://img.shields.io/nuget/dt/Mafesoft.VimeoClient?style=flat-square&label=downloads)](https://www.nuget.org/packages/Mafesoft.VimeoClient) |
+| [**Record**](https://github.com/fmazzant/Record) | Relational object mapper (ORM) | – | – |
 
-- Analysis, development and project management of a mobile app both on android and iOS platforms. The app context is about energy and gas management. It deals with self-reading, bills viewer, recharge TLC and news functionality
+## 💼 Selected work
 
-- Analysis, development and project management of an app for companies in the naval sector. The app handles boarding and landing inspections of semi-trailers from and to vessels. It processes multi gate inspection ( with a performance rating of 1500 inspection per day) and multi stock terminal. 
-The app is available on android platform only.
+| Project | Platforms | Stack |
+|---|---|---|
+| Sales app for a wine company's agents | iOS, Android | .NET MAUI |
+| Sports betting app — high performance and stability, German and Austrian release in May 2021 | iOS, Android, HTML5 | Xamarin, Angular |
+| Waste management app | Android | Xamarin |
+| Pharmaceutical company website — team lead, custom DNN modules, integration with an external system | Web | DNN |
+| Energy & gas customer app — meter self-reading, bills, top-ups, news | iOS, Android | – |
+| Naval sector inspections — boarding/landing of semi-trailers, multi-gate (1,500 inspections/day), multi-terminal | Android | – |
+| PDF & EPUB3 library for iPad — named one of the best Italian apps of 2013 by Digitalic | iPad | – |
 
-- Analysis and development an App for iPad that allows you to quickly and easily organize and manage all of your books, magazines, newspapers, brochures and documents in pdf and ebook in format epub3.
-The App it has been declared one of best Italian APP 2013 from the Digitalic head.
+On most of these I covered analysis, development and project management.
 
-- Pubblication a paper that it describes our experience in the simulation of humanoid soccer robots using two general purposes 3D simulators, namely USARSim and Microsoft Robotics Studio. We address the problem of the simulation of a soccer match among two teams of small humanoid robots in the RoboCup Soccer Kid-Size Humanoid competitions. The paper reports the implementation of the virtual models of the Robovie-M humanoid robot platform in the two simulators. Robovie-M was the robot used by our team "Artisti" in the RoboCup 2006 competitions. This paper focuses on the procedures needed to implement the virtual models of the robot and in the details of the models. We describe experiments assessing the feasibility and the fidelity of the two simulators.
+## 🎓 Research
 
-- MeshLab, an open-source project for the treatment of unstructured 3D meshes. The project is mostly based on the VCG library, developed at ISI-CNR
-
-<!--
-**fmazzant/fmazzant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Humanoid robot simulation** — paper on simulating RoboCup Kid-Size humanoid soccer (Robovie-M, team *Artisti*, RoboCup 2006) with USARSim and Microsoft Robotics Studio.
+- **[MeshLab](https://www.meshlab.net)** — open-source system for processing unstructured 3D meshes, based on the VCG library (ISTI-CNR).
