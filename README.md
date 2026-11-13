@@ -15,18 +15,12 @@ Currently exploring **Flutter**.
 
 .NET libraries on NuGet ([Mafesoft.*](https://www.nuget.org/profiles/fmazzant)):
 
-- [**RestClient**](https://github.com/fmazzant/RestClient) — fluent REST client with retry, refresh token and OpenTelemetry<br>
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-- [**TinyCsv**](https://github.com/fmazzant/TinyCsv) — fast CSV reading and writing, with ASP.NET Core support<br>
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-- [**Localization**](https://github.com/fmazzant/Localization) — localization for WPF, .NET MAUI, Blazor and MVC<br>
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![WPF](https://img.shields.io/badge/WPF-0078D4?style=flat-square&logo=windows&logoColor=white) ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
-- [**AdvancedWebView**](https://github.com/fmazzant/AdvancedWebView) — .NET MAUI web view with a JavaScript bridge<br>
-  ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-- [**PlainTextReport**](https://github.com/fmazzant/PlainTextReport) — plain text reports from a collection of objects<br>
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-- [**VimeoClient**](https://github.com/fmazzant/VimeoClient) — client for the Vimeo API<br>
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+- [**RestClient**](https://github.com/fmazzant/RestClient) — fluent REST client with retry, refresh token and OpenTelemetry
+- [**TinyCsv**](https://github.com/fmazzant/TinyCsv) — fast CSV reading and writing, with ASP.NET Core support
+- [**Localization**](https://github.com/fmazzant/Localization) — localization for WPF, .NET MAUI, Blazor and MVC
+- [**AdvancedWebView**](https://github.com/fmazzant/AdvancedWebView) — .NET MAUI web view with a JavaScript bridge
+- [**PlainTextReport**](https://github.com/fmazzant/PlainTextReport) — plain text reports from a collection of objects
+- [**VimeoClient**](https://github.com/fmazzant/VimeoClient) — client for the Vimeo API
 
 ## 💼 Selected work
 
