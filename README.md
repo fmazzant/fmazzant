@@ -23,7 +23,6 @@ Currently exploring **Flutter**.
 | [**AdvancedWebView**](https://github.com/fmazzant/AdvancedWebView) | Lightweight web view for .NET MAUI: loads web content, navigation events and error handling | [![NuGet](https://img.shields.io/nuget/v/Mafesoft.Maui.AdvancedWebView?style=flat-square&label=nuget)](https://www.nuget.org/packages/Mafesoft.Maui.AdvancedWebView) | [![Downloads](https://img.shields.io/nuget/dt/Mafesoft.Maui.AdvancedWebView?style=flat-square&label=downloads)](https://www.nuget.org/packages/Mafesoft.Maui.AdvancedWebView) |
 | [**PlainTextReport**](https://github.com/fmazzant/PlainTextReport) | Generates a plain text report from a collection of objects | [![NuGet](https://img.shields.io/nuget/v/Mafesoft.PlainTextReport?style=flat-square&label=nuget)](https://www.nuget.org/packages/Mafesoft.PlainTextReport) | [![Downloads](https://img.shields.io/nuget/dt/Mafesoft.PlainTextReport?style=flat-square&label=downloads)](https://www.nuget.org/packages/Mafesoft.PlainTextReport) |
 | [**VimeoClient**](https://github.com/fmazzant/VimeoClient) | Simple connector to the Vimeo REST services | [![NuGet](https://img.shields.io/nuget/v/Mafesoft.VimeoClient?style=flat-square&label=nuget)](https://www.nuget.org/packages/Mafesoft.VimeoClient) | [![Downloads](https://img.shields.io/nuget/dt/Mafesoft.VimeoClient?style=flat-square&label=downloads)](https://www.nuget.org/packages/Mafesoft.VimeoClient) |
-| [**Record**](https://github.com/fmazzant/Record) | Relational object mapper (ORM) | – | – |
 
 ## 💼 Selected work
 
